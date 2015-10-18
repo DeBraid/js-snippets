@@ -1,12 +1,17 @@
 /*
     Hides all profile pictures on tweetdeck.twitter.com 
 
-    Step 1:
-        Open browser console in Chrome ( MAC OSX - CMD+Option+J )
-        [ or right click anywhere on the page, 'Inspect Element' and hit esc]
+    Download uTweetdeck Chrome Extension 
+        URL: https://chrome.google.com/webstore/detail/utweetdeck/mamdemofgfmcdefkmolnnenmhmecpgbo
 
-    Step 2: 
-        Paste code below in console. 
+    
+    OR, the hacker way:
+        Step 1:
+            Open browser console in Chrome ( MAC OSX - CMD+Option+J )
+            [ or right click anywhere on the page, 'Inspect Element' and hit esc]
+
+        Step 2: 
+            Paste code below in console. 
 
 */
 
