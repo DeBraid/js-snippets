@@ -1,3 +1,15 @@
+/*
+    Hides all profile pictures on tweetdeck.twitter.com 
+
+    Step 1:
+        Open browser console in Chrome ( MAC OSX - CMD+Option+J )
+        [ or right click anywhere on the page, 'Inspect Element' and hit esc]
+
+    Step 2: 
+        Paste code below in console. 
+
+*/
+
 var s_ajaxListener = new Object();
 s_ajaxListener.tempOpen = XMLHttpRequest.prototype.open;
 s_ajaxListener.tempSend = XMLHttpRequest.prototype.send;
